@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">QuizFootball</string>
+
+    <string name="titre_quiz">Quiz Football</string>
+    <string name="score_format">Score : %1$d/%2$d</string>
+    <string name="question_format">Question %1$d sur %2$d</string>
+
+    <string name="bouton_suivant">Question suivante</string>
+    <string name="bouton_voir_resultat">Voir le résultat</string>
+    <string name="bouton_rejouer">Rejouer</string>
+
+    <string name="reponse_correcte">✔ Bonne réponse !</string>
+    <string name="reponse_incorrecte_format">✘ Mauvaise réponse. La bonne réponse était : %1$s</string>
+
+    <string name="resultat_titre">Partie terminée</string>
+    <string name="resultat_score_format">Votre score : %1$d / %2$d</string>
+
+    <string name="desc_joueur1">Photo d\'un joueur de football</string>
+    <string name="desc_joueur2">Photo d\'un joueur de football</string>
+    <string name="desc_equipe1">Logo ou maillot d\'une équipe de football</string>
+    <string name="desc_equipe2">Logo ou maillot d\'une équipe de football</string>
+    <string name="desc_trophee">Un trophée de football</string>
+
+    <string name="q1_texte">C\'est qui ce joueur ?</string>
+    <string name="q1_choix1">Lionel Messi</string>
+    <string name="q1_choix2">Cristiano Ronaldo</string>
+    <string name="q1_choix3">Neymar Jr</string>
+
+    <string name="q2_texte">C\'est qui ce joueur ?</string>
+    <string name="q2_choix1">Kylian Mbappé</string>
+    <string name="q2_choix2">Neymar Jr</string>
+    <string name="q2_choix3">Karim Benzema</string>
+
+    <string name="q3_texte">Cette équipe est ?</string>
+    <string name="q3_choix1">Real Madrid</string>
+    <string name="q3_choix2">FC Barcelone</string>
+    <string name="q3_choix3">Paris Saint-Germain</string>
+
+    <string name="q4_texte">Cette équipe est ?</string>
+    <string name="q4_choix1">Club Africain</string>
+    <string name="q4_choix2">Étoile du Sahel</string>
+    <string name="q4_choix3">Espérance Sportive de Zarzis</string>
+
+    <string name="q5_texte">Ce trophée représente la ?</string>
+    <string name="q5_choix1">Coupe du Monde</string>
+    <string name="q5_choix2">Coupe d\'Afrique des Nations</string>
+    <string name="q5_choix3">Ligue des Champions</string>
+</resources>
